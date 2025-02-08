@@ -3,7 +3,6 @@
 # TinyML ✨
 
 [![PyPI version](https://img.shields.io/pypi/v/TinyML.svg)](https://pypi.org/project/TinyML/)
-[![Discord](https://img.shields.io/discord/1300920499886358529?logo=discord&logoColor=white)](https://discord.gg/3czW7BMj)
 [![PyPI Downloads](https://static.pepy.tech/badge/TinyML)](https://pepy.tech/projects/TinyML)
 
 Build machine learning models using natural language and minimal code
@@ -181,7 +180,7 @@ Complete code and results are available at [plexe-ai/plexe-results](https://gith
 ## 6. Contributing
 
 We love contributions! You can get started with [issues](https://github.com/plexe-ai/TinyML/issues),
-submitting a PR with improvements, or joining the [Discord](https://discord.gg/3czW7BMj) to chat with the team. 
+submitting a PR with improvements.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 7. License
