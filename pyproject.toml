@@ -41,7 +41,7 @@ instructor = { extras = ["anthropic"], version = "^1.7.2" }
 tenacity = "^9.0.0"
 pyarrow = "^19.0.0"
 torch = "^2.6.0"
-litellm = "^1.60.0"
+litellm = "^1.61.15"
 statsmodels = "^0.14.4"
 
 
